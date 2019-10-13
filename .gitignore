@@ -1,0 +1,5 @@
+.idea/
+.vscode/
+__pycach__e
+*.py[co]
+venv/
